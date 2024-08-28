@@ -1,4 +1,4 @@
-![Headshot of Supraja Bekkem](IMG_0078.jpeg)
+![Headshot of Supraja Bekkem](IMG_0078.jpeg width="100" height="100")
 # Supraja Bekkem
 
 ## Contact Information
