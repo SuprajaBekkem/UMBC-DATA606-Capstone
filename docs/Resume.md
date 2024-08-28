@@ -1,4 +1,4 @@
-![Headshot of Supraja Bekkem](Screenshot 2024-08-28 at 00.04.14.png)
+![Headshot of Supraja Bekkem](docs/Screenshot 2024-08-28 at 00.04.14.png)
 # Supraja Bekkem
 
 ## Contact Information
