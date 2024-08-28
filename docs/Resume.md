@@ -60,7 +60,7 @@
 - **Data Visualization with Tableau Specialization by Coursera**
 - **Microsoft Power BI – A Complete Introduction by Udemy**
 
-![Headshot of Supraja Bekkem](docs/IMG_0078.jpeg)
+![Headshot of Supraja Bekkem](IMG_0078.jpeg)
 
 
 
