@@ -1,3 +1,4 @@
+![Headshot of Supraja Bekkem](IMG_0078.jpeg)
 # Supraja Bekkem
 
 ## Contact Information
@@ -60,7 +61,6 @@
 - **Data Visualization with Tableau Specialization by Coursera**
 - **Microsoft Power BI – A Complete Introduction by Udemy**
 
-![Headshot of Supraja Bekkem](IMG_0078.jpeg)
 
 
 
