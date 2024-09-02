@@ -1,6 +1,6 @@
 # Supraja Bekkem
 
-<img src="path/to/your/headshot.jpg" alt="Headshot of Supraja Bekkem" style="width:150px; height:auto; border-radius:50%;">
+<img src="image.jpeg" alt="Headshot of Supraja Bekkem" style="width:150px; height:auto; border-radius:50%;">
 
 ---
 
