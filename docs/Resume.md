@@ -1,6 +1,6 @@
 # Supraja Bekkem
 
-![Headshot of Supraja Bekkem](path/to/your/headshot.jpg) 
+![Headshot of Supraja Bekkem](image.jpeg) 
 
 ---
 
