@@ -33,10 +33,6 @@
 - Designed and executed comprehensive testing protocols, ensuring peak performance and data integrity across SAP S/4HANA environments, leading to a **30% reduction** in system errors.
 - Managed projects that significantly improved user experience and operational productivity, contributing to a **20% increase** in client satisfaction scores.
 
-### Teaching Experience
-- Mentored 7th and 8th-grade students in mathematics, providing individual assistance and enhancing their understanding of mathematical concepts.
-- Reported student progress to the dean and provided feedback on professors, leading to improvements in teaching quality and student satisfaction.
-
 ---
 
 ## 🛠️ Technical Skills
