@@ -35,6 +35,16 @@ Efficient and unbiased resume screening is critical to improving recruitment pro
 ### Data Sources
 The dataset was collected from Kaggle and is supplemented with additional sample resumes from various industries and job roles. Each resume consists of text data, containing both unstructured and semi-structured information, such as work experience, education, skills, and certifications.
 
+### Data Table
+
+| **Category**     | **Resume**                                                                                   |
+|------------------|----------------------------------------------------------------------------------------------|
+| Data Science     | Skills * Programming Languages: Python (pandas, numpy, scikit-learn, matplotlib), SQL, etc.   |
+| Data Science     | Education Details: May 2013 to May 2017 B.E. in Computer Science from XYZ University.         |
+| Data Science     | Areas of Interest: Deep Learning, Control Systems, Data Analytics, etc.                       |
+| Data Science     | Skills: R, Python, SAP HANA, Tableau, Data Visualization.                                     |
+| Data Science     | Education: MCA from YMCAUST, Faridabad; Project Experience in Data Mining.                    |
+
 ### Dataset Size
 - Approximately 30 MB of data.
 - Around 2,000 resumes.
