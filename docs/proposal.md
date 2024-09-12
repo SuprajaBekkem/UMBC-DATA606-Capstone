@@ -4,9 +4,10 @@
 
 **Author**: Supraja Bekkem
 
-**GitHub Repository**: [GitHub Repo]
+**GitHub Repository**: [https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone.git]
 
 **LinkedIn Profile**: [LinkedIn Profile]
+
 
 **PowerPoint Presentation**: [PowerPoint Presentation Link]
 
@@ -32,16 +33,16 @@ Efficient and unbiased resume screening is critical to improving recruitment pro
 ## 2. Data
 
 ### Data Sources
-The dataset comprises publicly available resume datasets supplemented by additional sample resumes from various industries and job roles. Each resume contains text data that includes unstructured and semi-structured information such as work experience, education, skills, and certifications.
+The dataset was collected from Kaggle and is supplemented with additional sample resumes from various industries and job roles. Each resume consists of text data, containing both unstructured and semi-structured information, such as work experience, education, skills, and certifications.
 
 ### Dataset Size
-- Approximately 1 GB of data.
-- Around 10,000 resumes.
+- Approximately 30 MB of data.
+- Around 2,000 resumes.
 
 ### Data Structure
-- **Number of resumes**: ~10,000.
+- **Number of resumes**: ~2,000.
 - **Data Format**: Textual information extracted from resumes and job descriptions.
-- **Columns**: Candidate skills, education, experience, and job descriptions for matching purposes.
+- **Columns**: Category(Majors), Resume.
 
 ### What Each Row Represents
 Each row corresponds to an individual resume, and the columns contain various attributes such as skills, work experience, educational background, and additional metadata that are critical for matching against specific job requirements.
@@ -97,7 +98,7 @@ To make the app stand out further, some key features and future enhancements cou
 - **Bias mitigation**: Algorithms to anonymize personal data (name, gender, etc.) to reduce unconscious bias.
 - **Candidate recommendations**: Suggest alternative job roles for candidates who may be more suitable for different roles within the organization.
 - **Real-time feedback and collaboration**: Allow recruiters to interact and collaborate within the app to refine the resume ranking process.
-- **Integration with ATS**: Seamless integration with Applicant Tracking Systems to make the solution part of a broader recruitment pipeline.
+
 
 By continuously enhancing the features and scalability of this application, the platform has the potential to become a go-to tool for organizations seeking efficient and unbiased resume screening solutions.
 
