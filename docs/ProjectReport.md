@@ -2,7 +2,9 @@
 
 **Prepared for**: UMBC Data Science Master's Capstone, supervised by Dr. Chaojie (Jay) Wang
 
-**Author**: Supraja Bekkem
+**Author**: Supraja Bekkem 
+
+**Semester**: Fall 2024  
 
 **GitHub Repository**: [https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone.git]
 
@@ -18,10 +20,13 @@
 ## 1. Background
 
 ### Project Overview
-The "Resume Screening Application" is designed to streamline the recruitment process by leveraging Natural Language Processing (NLP) techniques to automatically classify and rank resumes based on job requirements. The tool allows recruiters or hiring managers to upload resumes, and the app processes and ranks them based on how well they align with a given job description. This solution addresses one of the major challenges in recruitment—manually screening hundreds or thousands of resumes—which is both time-consuming and subject to human bias.
+- The "Resume Screening Application" is designed to streamline the recruitment process by leveraging Natural Language Processing (NLP) techniques to automatically classify and rank resumes based on job requirements. 
+- The tool allows recruiters or hiring managers to upload resumes, and the app processes and ranks them based on how well they align with a given job description.
+- This solution addresses one of the major challenges in recruitment—manually screening hundreds or thousands of resumes—which is both time-consuming and subject to human bias.
 
 ### Significance
-Efficient and unbiased resume screening is critical to improving recruitment processes. By automating this step, recruiters can significantly reduce the time required to identify top candidates, improving the overall hiring experience. Additionally, it helps mitigate bias by focusing on skills, qualifications, and experience rather than irrelevant factors. This application serves to enhance both the accuracy and consistency of resume evaluations, leading to better-informed hiring decisions and a faster time-to-hire.
+- Efficient and unbiased resume screening is critical to improving recruitment processes. By automating this step, recruiters can significantly reduce the time required to identify top candidates, improving the overall hiring experience. Additionally, it helps mitigate bias by focusing on skills, qualifications, and experience rather than irrelevant factors. 
+- This application serves to enhance both the accuracy and consistency of resume evaluations, leading to better-informed hiring decisions and a faster time-to-hire.
 
 ### Research Questions
 - Can NLP models effectively classify and rank resumes based on their relevance to specific job descriptions?
@@ -46,11 +51,11 @@ The dataset was collected from Kaggle and is supplemented with additional sample
 | Data Science     | Education: MCA from YMCAUST, Faridabad; Project Experience in Data Mining.                    |
 
 ### Dataset Size
-- Approximately 30 MB of data.
-- Around 2,000 resumes.
+- Approximately 5 MB of data.
+- Around 1,200 resumes.
 
 ### Data Structure
-- **Number of resumes**: ~2,000.
+- **Number of resumes**: ~1,200.
 - **Data Format**: Textual information extracted from resumes and job descriptions.
 - **Columns**: Category(Majors), Resume.
 
