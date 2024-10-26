@@ -6,7 +6,7 @@
 
 **GitHub Repository**: [https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone.git]
 
-**LinkedIn Profile**: [LinkedIn Profile]
+**LinkedIn Profile**: [www.linkedin.com/in/bekkemsupraja]
 
 
 **PowerPoint Presentation**: [PowerPoint Presentation Link]
