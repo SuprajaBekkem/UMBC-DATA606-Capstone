@@ -151,7 +151,9 @@ These observations highlight the effectiveness of each model, with Logistic Regr
 
 ## 5. Application of the Trained Models
 
-The final model is deployed using **Streamlit**, a user-friendly platform for creating web applications. The application interface allows recruiters to upload resumes in bulk and input a job description for the system to analyze. The NLP model then processes the resumes, ranks them, and displays the best matches in descending order of relevance. This intuitive interface enables quick access to the most qualified candidates, significantly enhancing the speed and efficacy of the recruitment process.
+- The final model is deployed using **Streamlit**, a user-friendly platform for creating web applications. The application interface allows recruiters to upload resumes in bulk and input a job description for the system to analyze. 
+- The NLP model then processes the resumes, ranks them, and displays the best matches in descending order of relevance. 
+- This intuitive interface enables quick access to the most qualified candidates, significantly enhancing the speed and efficacy of the recruitment process.
 
 ---
 
