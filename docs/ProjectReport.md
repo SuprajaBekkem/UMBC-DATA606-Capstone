@@ -110,16 +110,42 @@ A closer look into class imbalance revealed that certain job categories have sig
 ### NLP Techniques Utilized
 - **Text Preprocessing**: The raw text is cleaned and preprocessed through tokenization, stopword removal, lemmatization, and normalization. This ensures that only relevant textual information is fed into the model.
 - **Vectorization**: Textual data is converted into numerical features using TF-IDF (Term Frequency-Inverse Document Frequency) and Word2Vec embeddings, enabling the model to capture the semantic meaning of the resumes and job descriptions.
-- **Classification Models**: Multiple machine learning models are employed for the classification and ranking of resumes:
-  - **Logistic Regression**: A simple yet effective baseline model for classification tasks.
-  - **Random Forest**: An ensemble model that improves accuracy by reducing variance.
-  - **Gradient Boosting**: A more sophisticated model that iteratively corrects errors made by weaker models, resulting in higher accuracy and robustness.
+- **Classification Models**: Multiple machine learning models were utilized for classifying and ranking resumes to determine their relevance to job requirements:
+  - **Multinomial Naive Bayes (MultinomialNB)**: A probabilistic classifier well-suited for text classification tasks. It uses word frequency distributions, making it effective in handling high-dimensional data like resume text.
+  - **Support Vector Classifier (SVC)**: A powerful classifier that finds the hyperplane with the maximum margin to separate classes. It performs well on text classification by handling both linear and non-linear relationships.
+  - **K-Nearest Neighbors (KNeighborsClassifier)**: A non-parametric classifier that categorizes a resume based on the closest training samples. Its simplicity and effectiveness in handling small datasets make it a valuable benchmark model.
+  - **OneVsRest Classifier**: A strategy to tackle multiclass classification problems by fitting a separate classifier for each class. This approach allows for better class separation in complex datasets.
+  - **Logistic Regression**: A linear model that serves as a robust baseline classifier. It predicts probabilities for each class, making it a reliable choice for resume classification with interpretability in feature importance.
 
 ### Performance Metrics
 The models are evaluated based on key performance metrics such as:
 - **Accuracy**: Measures the overall correctness of predictions.
 - **Precision, Recall, and F1-Score**: Evaluates the model's ability to correctly classify resumes relevant to the job description, while minimizing false positives and false negatives.
 - **ROC-AUC**: A metric that provides a balanced view of model performance across different classification thresholds, giving insight into the trade-offs between sensitivity and specificity.
+
+### Observations for Classification Models
+
+- **Multinomial Naive Bayes (MultinomialNB)**:
+  - **Accuracy**: 97.41%
+  - **Precision & Recall**: Generally high across most categories, though with a slight drop in precision for some minority classes.
+  - **F1-Score**: The model maintains a high F1-score, indicating a balance between precision and recall. This model is effective for text data but can struggle slightly with imbalanced classes.
+
+- **K-Nearest Neighbors (KNeighborsClassifier) with OneVsRest**:
+  - **Accuracy**: 98.45%
+  - **Precision & Recall**: Excellent performance across all classes, though some categories like "HR" show slight drops in recall, suggesting sensitivity to class imbalance.
+  - **F1-Score**: Maintains high F1-scores, reflecting its strong ability to classify resumes accurately. Its non-parametric nature makes it robust in capturing varied patterns, though it may be slower on larger datasets.
+
+- **Logistic Regression**:
+  - **Accuracy**: 99.48%
+  - **Precision & Recall**: High precision and recall scores across categories, with minimal variations. This indicates the model’s effectiveness in accurately distinguishing between classes.
+  - **F1-Score**: Very high F1-scores across all classes, showing its reliability for text-based classification tasks. Logistic Regression’s linear nature enhances interpretability, making it a top performer in this dataset.
+
+- **Support Vector Classifier (SVC)**:
+  - **Accuracy**: 99.48%
+  - **Precision & Recall**: SVC achieves near-perfect scores, with only slight variability in minority classes, indicating strong model generalization.
+  - **F1-Score**: Consistently high, showcasing excellent balance between precision and recall. SVC is particularly powerful for text classification due to its ability to handle non-linear relationships.
+
+These observations highlight the effectiveness of each model, with Logistic Regression and SVC providing the highest accuracies and balanced F1-scores, indicating robust performance on text classification tasks with your dataset.
 
 ---
 
