@@ -30,8 +30,8 @@ def extract_text_from_docx(docx_file):
 with open('tfidf_vectorizer.pkl', 'rb') as f:
     tfidf_vectorizer = pickle.load(f)
 
-# Load the trained classifier model (e.g., KNN, Logistic Regression, etc.)
-with open('knn_model.pkl', 'rb') as f:  # Replace with your chosen model (e.g., 'logreg_model.pkl', 'naive_bayes_model.pkl')
+# Load the trained classifier model 
+with open('logistic_regression_model.pkl', 'rb') as f: 
     clf = pickle.load(f)
 
 # Define the mapping of category IDs to category names
