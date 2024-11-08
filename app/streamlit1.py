@@ -27,11 +27,11 @@ def extract_text_from_docx(docx_file):
     return '\n'.join([para.text for para in doc.paragraphs])
 
 # Load the TfidfVectorizer
-with open('tfidf_vectorizer.pkl', 'rb') as f:
+with open('app/tfidf_vectorizer.pkl', 'rb') as f:
     tfidf_vectorizer = pickle.load(f)
 
 # Load the trained classifier model 
-with open('logistic_regression_model.pkl', 'rb') as f: 
+with open('app/logistic_regression_model.pkl', 'rb') as f: 
     clf = pickle.load(f)
 
 # Define the mapping of category IDs to category names
