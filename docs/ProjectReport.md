@@ -12,7 +12,7 @@
 
 **Streamlit Web App**: [https://app1py-wtczfunvqv55bav8xza3pf.streamlit.app]
 
-**PowerPoint Presentation**: [PowerPoint Presentation Link]
+**PowerPoint Presentation**: [docs/capstone.pptx]
 
 **YouTube Video**: [YouTube Video Link]
 
