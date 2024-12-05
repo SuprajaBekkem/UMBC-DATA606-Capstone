@@ -10,6 +10,7 @@
 
 **LinkedIn Profile**: [www.linkedin.com/in/bekkemsupraja]
 
+**Streamlit Web App**: [https://app1py-wtczfunvqv55bav8xza3pf.streamlit.app]
 
 **PowerPoint Presentation**: [PowerPoint Presentation Link]
 
