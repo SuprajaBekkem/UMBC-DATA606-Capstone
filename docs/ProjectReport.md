@@ -117,7 +117,6 @@ A closer look into class imbalance revealed that certain job categories have sig
   - **Multinomial Naive Bayes (MultinomialNB)**: A probabilistic classifier well-suited for text classification tasks. It uses word frequency distributions, making it effective in handling high-dimensional data like resume text.
   - **Support Vector Classifier (SVC)**: A powerful classifier that finds the hyperplane with the maximum margin to separate classes. It performs well on text classification by handling both linear and non-linear relationships.
   - **K-Nearest Neighbors (KNeighborsClassifier)**: A non-parametric classifier that categorizes a resume based on the closest training samples. Its simplicity and effectiveness in handling small datasets make it a valuable benchmark model.
-  - **OneVsRest Classifier**: A strategy to tackle multiclass classification problems by fitting a separate classifier for each class. This approach allows for better class separation in complex datasets.
   - **Logistic Regression**: A linear model that serves as a robust baseline classifier. It predicts probabilities for each class, making it a reliable choice for resume classification with interpretability in feature importance.
 
 ### Performance Metrics
