@@ -6,7 +6,7 @@
 
 **Semester**: Fall 2024  
 
-**GitHub Repository**: [https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone.git]
+**GitHub Repository**: [GitHub Repository](https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone)
 
 **LinkedIn Profile**: [www.linkedin.com/in/bekkemsupraja]
 
