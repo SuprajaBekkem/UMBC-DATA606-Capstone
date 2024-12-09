@@ -91,6 +91,7 @@ We examined the distribution of resumes across various job categories. This anal
 We also calculated the average length of resumes for each job category to see if certain categories tend to have longer or shorter resumes.
 
 - **Observation**: Resumes in categories like "Data Science" and "Software Engineering" tend to be longer, likely due to the technical skills and project descriptions that candidates include. In contrast, resumes in categories such as "HR" and "Testing" tend to be shorter.
+<img src="Word Count.png" alt="Category Distrubution" style="width:500px; height:350px; border-radius:50%;">
 
 ### 3.5 Missing Data
 
