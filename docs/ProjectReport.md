@@ -12,7 +12,7 @@
 
 **Streamlit Web App**: [Streamlit Application](https://app1py-wtczfunvqv55bav8xza3pf.streamlit.app)
 
-**PowerPoint Presentation**: [Presentation Link](UMBC-DATA606-Capstone/docs/capstone.pptx)
+**PowerPoint Presentation**: [Presentation Link](https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone/blob/main/docs/capstone.pptx)
 
 **YouTube Video**: [YouTube Presentation Link](https://youtu.be/CvmyIs0VG_o?si=na_U7tQXtxb0h4Kl)
 
