@@ -14,7 +14,7 @@
 
 **PowerPoint Presentation**: [UMBC-DATA606-Capstone/docs/]
 
-**YouTube Video**: [YouTube Video Link]
+**YouTube Video**: [(https://youtu.be/CvmyIs0VG_o?si=na_U7tQXtxb0h4Kl)]
 
 ---
 
