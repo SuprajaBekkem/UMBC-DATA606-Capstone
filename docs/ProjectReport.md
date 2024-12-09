@@ -103,7 +103,7 @@ We checked for missing data in the dataset to ensure there are no null values th
 A closer look into class imbalance revealed that certain job categories have significantly more resumes compared to others. This imbalance may affect model performance, and we may need to apply techniques like oversampling or undersampling to balance the classes.
 
 - **Observation**: Categories such as "Data Science" and "Web Development" are overrepresented compared to categories like "Mechanical Engineering" and "Civil Engineering."
-<img src="Distrubution.png" alt="Category Distrubution" style="width:350px; height:350px; border-radius:50%;">
+<img src="Distrubution.png" alt="Category Distrubution" style="width:500px; height:350px; border-radius:50%;">
 
 ---
 
