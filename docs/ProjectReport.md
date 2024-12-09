@@ -8,13 +8,13 @@
 
 **GitHub Repository**: [GitHub Repository](https://github.com/SuprajaBekkem/UMBC-DATA606-Capstone)
 
-**LinkedIn Profile**: [www.linkedin.com/in/bekkemsupraja]
+**LinkedIn Profile**: [LinkedIn Profile](www.linkedin.com/in/bekkemsupraja)
 
-**Streamlit Web App**: [https://app1py-wtczfunvqv55bav8xza3pf.streamlit.app]
+**Streamlit Web App**: [Streamlit Application](https://app1py-wtczfunvqv55bav8xza3pf.streamlit.app)
 
-**PowerPoint Presentation**: [UMBC-DATA606-Capstone/docs/capstone.pptx]
+**PowerPoint Presentation**: [Presentation Link](UMBC-DATA606-Capstone/docs/capstone.pptx)
 
-**YouTube Video**: [(https://youtu.be/CvmyIs0VG_o?si=na_U7tQXtxb0h4Kl)]
+**YouTube Video**: [YouTube Presentation Link](https://youtu.be/CvmyIs0VG_o?si=na_U7tQXtxb0h4Kl)
 
 ---
 
