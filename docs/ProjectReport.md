@@ -169,10 +169,10 @@ This capstone project demonstrates how NLP and machine learning can effectively 
 
 ## 7. References
 
-# Books
+### Books
 Jurafsky, D., & Martin, J. H. (2009). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition (2nd ed.). Pearson Education.
 (A comprehensive book on NLP techniques and applications.)
-# Tools 
+### Tools 
 Python Software Foundation. (2023). Python Programming Language Documentation.
 (Official Python documentation.)
 https://docs.python.org
@@ -184,7 +184,7 @@ https://scikit-learn.org
 Streamlit. Streamlit for Machine Learning and Data Apps.
 (Documentation for creating web apps like your project.)
 https://streamlit.io
-# Dataset
+### Dataset
 Kaggle. Resume Dataset.
 (Source of resume data for the project.)
 https://www.kaggle.com
