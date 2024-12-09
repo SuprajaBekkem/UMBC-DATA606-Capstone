@@ -191,7 +191,7 @@ Kaggle. Resume Dataset.
 https://www.kaggle.com
 
 
-## Key Features and Future Enhancements
+## 8. Key Features and Future Enhancements
 
 To make the app stand out further, some key features and future enhancements could include:
 - **Skill extraction**: Advanced techniques to extract and match specific skills between resumes and job descriptions.
